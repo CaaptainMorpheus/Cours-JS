@@ -1,5 +1,7 @@
-
+<p aligne="center>
 # Cours de JavaScript
+</p>
+
 
 ## Introduction au JavaScript
 
@@ -16,3 +18,5 @@
   <br><br>
   <img src="http://s.4cdn.org/image/title/105.gif">
 </p>
+
+dgregfer
