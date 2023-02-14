@@ -13,19 +13,17 @@ def:JavaScript est un langage de programmation qui permet d'implémenter des mé
 
 Élément qui peut prendre des valeurs différentes à l'intérieur d'un ensemble, d'un système, d'une relation. 2. Information identifiée par un nom ou par une adresse, et pouvant prendre une ou plusieurs valeurs numériques, logiques ou alphanumériques, au cours du déroulement d'un programme.</br>
 </br>
-<div align="center">
 ```
 var maChaine=new String("exemple");
-   
-   var a = 42
-   var b = 4.2
-   var c = -42
-   var d = "42"
-  
-     alert("ma variable a: "+ typeof (a) +
-     "\nma variable b est de type :" + typeof(b) +
-     \nma variable b est de type :" + typeof(c) +
-     \nma variable b est de type :" + typeof(d) +");
+var a = 42
+var b = 4.2
+var c = -42
+var d = "42"
+
+alert("ma variable a: "+ typeof (a) +
+"\nma variable b est de type :" + typeof(b) +
+\nma variable b est de type :" + typeof(c) +
+\nma variable b est de type :" + typeof(d) +");
 ```
 ![capture](/img/number.png)   
 ```
@@ -43,10 +41,6 @@ var maChaine=new String("exemple");
  "/nma variable nn est de type : " + typeof (nn));  
 ```
 ![capture](/img/object.png)
-
-</div>
-
-
 
 <p align="center">
   <b>JavaSript</b><br>
