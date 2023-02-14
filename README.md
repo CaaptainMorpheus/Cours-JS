@@ -1,3 +1,4 @@
+
 # Cours de JavaScript
 
 ## Introduction au JavaScript
@@ -7,3 +8,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
