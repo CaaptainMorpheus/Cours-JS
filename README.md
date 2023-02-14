@@ -50,7 +50,7 @@ var maChaine=new String("exemple");
      "\nma variable b est de type :" + typeof(b) +
      \nma variable b est de type :" + typeof(c) +
      \nma variable b est de type :" + typeof(d) +");
-     
+![capture](/img/number.png)   
   var machaine = "Exemple";
   var maChaine = new String("Exemple");
 
