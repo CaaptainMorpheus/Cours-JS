@@ -63,20 +63,15 @@ var maChaine=new String("exemple");
   alert("ma variable machaine est de type: " +typeof(n)+
  "/nama variable maChaine est de type : " +typeof(u)+
  "/nma variable nn est de type : " + typeof (nn));  
-
+![capture](/img/object.png)
 
 </pre>
 </div>
 
 
 
-
-   
-
-
-
 <p align="center">
-  <b>Some Links:</b><br>
+  <b>JavaSript</b><br>
   <a href="#">Link 1</a> |
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
